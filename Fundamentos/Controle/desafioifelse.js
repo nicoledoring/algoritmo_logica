@@ -16,7 +16,7 @@ if (operacao === "*"){ //texto o ideal é ===
     resultado = a % b;
 }
 
-
+ksjsajddj
 
 
 
