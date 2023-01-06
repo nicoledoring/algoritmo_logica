@@ -10,7 +10,7 @@ soma(3 , 4);
 soma(31 , 98);
 
 function subtracao(a,b){
-    console.log(a - b)
+    console.log(a - b) 
 }
 
 subtracao(11 , 7);
