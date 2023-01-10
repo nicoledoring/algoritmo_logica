@@ -5,4 +5,4 @@ let d = undefined;
 
 console.log(a, b, c, d);
 console.log(a + b);
-console.log(b + c);
+console.log(b + c);// c vazio = 0
